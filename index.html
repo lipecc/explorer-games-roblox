@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorer Games Roblox</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Explorer Games Roblox</h1>
+        <div class="search-container">
+            <input type="text" id="search-title" placeholder="Pesquisar por título...">
+            <button id="search-btn">
+                <img id="search-icon" src="images/lupa.png" alt="Buscar">
+            </button>
+        </div>
+        <div class="categories">
+            <button class="category-btn active" data-category="All">Todos</button>
+            <button class="category-btn" data-category="Ação">Ação</button>
+            <button class="category-btn" data-category="FPS">FPS</button>
+            <button class="category-btn" data-category="Quebra-Cabeça">Quebra-Cabeça</button>
+            <button class="category-btn" data-category="Terror">Terror</button>
+            <button class="category-btn" data-category="Racing">Racing</button>
+            <button class="category-btn" data-category="Exploração">Exploração</button>
+            <button class="category-btn" data-category="Competitivo">Competitivo</button>
+            <button class="category-btn" data-category="Guerra">Guerra</button>
+        </div>
+        <div id="game-list">
+            <!-- Os jogos recomendados serão carregados aqui -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
