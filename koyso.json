@@ -1,0 +1,33 @@
+{
+  "name": "Koyso [Games]",
+  "downloads": [
+    {
+      "title": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "uris": ["https://koyso.com/game/15"],
+      "uploadDate": "2024-11-25T00:00:00.000Z",
+      "fileSize": "14.5 GB",
+      "version": "v1.06"
+    },
+    {
+      "title": "Crusader Kings III",
+      "uris": ["https://koyso.com/game/287"],
+      "uploadDate": "2024-11-25T00:00:00.000Z",
+      "fileSize": "5 GB",
+      "version": "v1.14.0.1"
+    },
+    {
+      "title": "Cities: Skylines",
+      "uris": ["https://koyso.com/game/131"],
+      "uploadDate": "2024-11-25T00:00:00.000Z",
+      "fileSize": "10 GB",
+      "version": "v1.18.1"
+    },
+    {
+      "title": "Brotato",
+      "uris": ["https://koyso.com/game/333"],
+      "uploadDate": "2024-11-25T00:00:00.000Z",
+      "fileSize": "200 MB",
+      "version": "v1.1.6.3"
+    }
+  ]
+}
